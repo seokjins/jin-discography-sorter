@@ -1,7 +1,7 @@
 window.jin_list = [
     "Abyss",
     "The Astronaut",
-    "Epiphany (Demo Version),
+    "Epiphany (Demo Version)",
     "Tonight",
     "Super Tuna (OG Version)",
     "Yours",
