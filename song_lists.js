@@ -1,6 +1,7 @@
 window.jin_list = [
     "Abyss",
     "The Astronaut",
+    "Epiphany (Demo Version),
     "Tonight",
     "Super Tuna (OG Version)",
     "Yours",
@@ -14,7 +15,7 @@ window.jin_list = [
     "Falling",
     "Close to You",
     "Falling (Feat. Taka)",
-    "Epiphany",
+    "Epiphany (Original Version)",
     "Moon",
     "Awake",
     "Don't Say You Love Me",
