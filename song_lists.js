@@ -3,7 +3,7 @@ window.jin_list = [
     "The Astronaut",
     "Epiphany (Demo Version)",
     "Tonight",
-    "Super Tuna (OG Version)",
+    "Super Tuna (Original Version)",
     "Yours",
     "It's Definitely You (Feat. V)",
     "I'll Be There",
@@ -21,8 +21,8 @@ window.jin_list = [
     "Don't Say You Love Me",
     "Loser",
     "Rope it",
-    "A Journey With The Clouds",
+    "With The Clouds",
     "Background",
     "Nothing Without Your Love",
-    "To Today's Me"
+    "To Me, Today"
 ];
